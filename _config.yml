@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Charles Ashby
+name: Shany Grosman
 
 # Short bio or description (displayed in the header)
-description: (not) Just another Deep Learning Blog
+description: My name is Shany Grosman, and I am a .NET software developer with a B.S. in Architecture (the kind you live in). I build solutions for various web platforms and backend applications, construct design schematics for sustainable architecture technologies, and can also chew bubble gum at the same time. My specialty is in code optimization, API integrations, and development of data-driven toolsets. I have always pursued my passion for building the infrastructure that drive our daily experiences, and love discovering and refining the needs of my clients.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: charlesashby.github.io/images/rss.gif
+avatar: github.com/entities.png
 
 #
 # Flags below are optional
@@ -18,12 +18,12 @@ avatar: charlesashby.github.io/images/rss.gif
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: shanygrosman@gmail.com
+  facebook: https://www.facebook.com/shanygrosman
   flickr:
   github: charlesashby
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/shanygrosman
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
